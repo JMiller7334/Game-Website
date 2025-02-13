@@ -1,8 +1,6 @@
 # Game-Website
 ## Overview:
 A promotional website I designed for the game I created while I was in college.
-This website also acts as additonal location I use to share tutorials and open source code that I
-have made available from my game to the Roblox community.
 
 Notes:
 + Designed using HTML, SCSS/CSS, Javascript.
@@ -37,4 +35,4 @@ Notes:
   + [React.JS Game Website Rebuild](https://github.com/JMiller7334/ReactJS-Game-Website)
 
 ### Links:
-  + [Official Website](https://themeparkproject.com/)
+  + [Live Demo (React Version)](https://themeparkproject.com/)
